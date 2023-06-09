@@ -7,3 +7,4 @@
 <img src="https://img.shields.io/badge/mysql-003D3A?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
 <img src="https://img.shields.io/badge/postgresql-003D3A?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
 <img src="https://img.shields.io/badge/git-003D3A?style=for-the-badge&logo=git&logoColor=#F05032"/>
+<img src="https://img.shields.io/badge/jmeter-003D3A?style=for-the-badge&logo=apachejmeter&logoColor=#D22128"/>
